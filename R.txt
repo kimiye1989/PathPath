@@ -1,10 +1,12 @@
-
+XXXXXX
 
 practice push
 
 1
 2
-3
+8
+XXXXXXX
 4
 5
 
+XXXXXX
